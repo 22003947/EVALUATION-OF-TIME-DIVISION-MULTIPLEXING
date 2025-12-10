@@ -37,5 +37,6 @@ It takes the sample from each channel per revolution and rotates at the rate of 
 
 ### Result
 
+![521954733-dbe6d8f1-2a0d-47dd-9fa1-616a15e003af](https://github.com/user-attachments/assets/7f55e6f7-d3d1-4799-a00a-eb5231114766)
 
 
